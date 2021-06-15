@@ -13,4 +13,8 @@ This was my first non trivial project, Written on June 15th 2021. The chances ar
 
 My first thoughts after finishing the game were how messy my code was. I tried to keep things simple, and only use concepts and functions that I was taught. The learning material used was Bjarne Stroustrups _programming prinicples and practices using c++_ which you will have seen linked in my resume. This project is actually an excersise from the book's chapter 18 problems, so i've thus only used concepts taught up till then, and anything in the appendix.
 
-My second thoughts were 
+My second thoughts were my disdain for not having seperated things into header files. Although I'm unfamiliar with how precisely to properly and safely seperate components of my program, I feel that is definitely a useful skill I _must_ learn. Scrolling through my program will definitely urge you to agree with me.
+
+Over all, I had fun. I hope this program demonstrates my understanding of the easier parts of programming with C++ such as simple looping, if/for logic etc, while also adequetly demonstrating my understanding of harder concepts like memory manipulation, (elementary) data structures such as linked lists, and more.
+
+
