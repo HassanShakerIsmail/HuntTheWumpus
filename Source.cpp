@@ -2,7 +2,7 @@
 #include<vector>
 #include<algorithm>
 
-//This is my attempt (Hassan Ismail) to implement Gregory Yob's famous text based game 'Hunt the Wumpus' in C++.
+//This is my attempt (Hassan) to implement Gregory Yob's famous text based game 'Hunt the Wumpus' in C++.
 //The rules are as follows: In a cave of 20 rooms, the player randomly spawns in one room (Not with the Wumpus) and with 5 arrows, must traverse the rooms hunting down the wumpus, while avoiding randomly placed 
 //Bottomless pits, giant transporting bats, and the Wumpus himself.
 
